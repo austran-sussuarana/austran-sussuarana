@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @austran-sussuarana
-- 👀 I’m interested in API Code, SAP JAVA Hybris Code, Vue code and Javascript Code.
-- 🌱 I’m currently 25 years job professional
+- 👋 Hi, I’m @austran-sussuarana I have +20 years as a SAP consultant, Today I work Sap Hybris Architect and  SAP C4HANA Architect (Sales e Marketing)
+- 👀 I’m interested in Hybris API Code, SAP JAVA Hybris Code, Vue code and Javascript Code and SAP Code.
+- 🌱 I’m currently 26 years job professional
 - 💞️ I’m looking to collaborate on Hybris, java spring community
 - 📫 How to reach me ...
 
